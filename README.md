@@ -1,5 +1,5 @@
-##Finger Detection CNN - Application Web de Détection de Doigts
-#Réalisé par ANTON NELCON Steve - Master 1 Informatique et Big Data 
+## Finger Detection CNN - Application Web de Détection de Doigts
+# Réalisé par ANTON NELCON Steve - Master 1 Informatique et Big Data 
 
 <img width="1832" height="860" alt="image" src="https://github.com/user-attachments/assets/a69a39cf-63db-46f2-9b86-4e4f65e94604" />
 <img width="1832" height="694" alt="image" src="https://github.com/user-attachments/assets/66a57b70-a2db-440b-bfa1-904c8715cece" />
